@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Sou Glecio Braga 
 
 <!--
 **gleciobraga/gleciobraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 Graduado como Tecnico em Manutenção e Suporte em Informatica.
+🎓 Graduando em Análise de Desenvolvimento de Sistemas.
+💼 Analista de Testes de Software no Grupo ICTS
+🤖 Otimizando tempo com Automação de Software.
+📍  Morando em Manaus-AM (Brasil).
